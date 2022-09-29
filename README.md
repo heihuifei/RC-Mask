@@ -13,6 +13,6 @@ adding a branch for predicting count in parallel with the existing
 branches, moreover, we add orientation information to both the object
 detection and semantic segmentation branches. Without tricks, RCMask achieves state-of-the-art segmentation accuracy on original
 chromosome dataset(63.9%mAP), which outperforms all existing on
-chromosome automatic segmentation. Code is available at https://github.com/heihuifei/chromosome
+chromosome automatic segmentation. Code is available at https://github.com/heihuifei/RC-Mask
 
 
